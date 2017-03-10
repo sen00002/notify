@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ca.edumedia.sen00002.notifyApp"
+        }
+    }
+}
